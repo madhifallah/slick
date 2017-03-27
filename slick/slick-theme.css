@@ -188,8 +188,8 @@
     width: 20px;
     height: 20px;
 
-    content: '•';
-    text-align: center;
+    content: '□';
+    text-align: left;
 
     opacity: .25;
     color: black;
